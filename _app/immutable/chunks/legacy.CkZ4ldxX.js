@@ -1,0 +1,1 @@
+import{N as a}from"./runtime.D9K2NnJy.js";a();
