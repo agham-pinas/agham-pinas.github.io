@@ -1,1 +1,0 @@
-import{G as a}from"./runtime.DYsPux92.js";a();
