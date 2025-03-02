@@ -1,0 +1,1 @@
+import{c as a}from"../chunks/entry.B5_gRiWY.js";export{a as start};
